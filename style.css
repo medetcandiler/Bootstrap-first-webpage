@@ -15,3 +15,8 @@ main{
 main#ürünlerimiz{
     height: 1800px;
 }
+.about-us h1{
+    text-align: center;
+    color: #212529;
+    margin: 15px 0px;
+}
