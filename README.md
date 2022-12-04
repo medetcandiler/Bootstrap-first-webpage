@@ -6,8 +6,7 @@ Merhaba, ben Medetcan, Aslen Makine Mühendisi olsam da bilgisayar, bilgisayar b
 ---
 
 **Proje İçerisinde Yer Alan Çalışmalar**
-* Bu projemde HTML ve CSS derslerinde öğrendiğim tüm bilgileri kullandım.
-* SVG elementi çalışmaları
+* Bootstrap 12 lik grid sistemi çalışmalarıyla tasarım çalışmaları
 ---
 Proje örnek görsel:
 
